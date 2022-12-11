@@ -1,1 +1,3 @@
 # Enhancing-lab-facilities-using-qrcode
+
+In this project by using  QR & Bar codes, especially in accessing the details of any lab-room or classroom. Our  goal is to increase engagement of users with a particular information through QR code. By  scanning this generated QR code users can get all essential information about certain room. Here,  we’re providing the way to take text from speech using a speech recognizer. Also, we can listen  our information which is given through speech. Analyzing our desired fact in a easiest way by  using QR code through which we can save our valuable time & effort.
